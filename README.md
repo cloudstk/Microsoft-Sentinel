@@ -1,1 +1,1 @@
-# Microsoft-Sentinel
+# Microsoft Sentinel
