@@ -9,3 +9,6 @@ Configure Log Analytics agent to collect Sysmon events
 Useful links:
 --
 [Collect data from Linux-based sources using Syslog](https://learn.microsoft.com/en-us/azure/sentinel/connect-syslog)
+
+[Security incident management in Microsoft Sentinel](https://learn.microsoft.com/en-us/training/modules/incident-management-sentinel/)
+
