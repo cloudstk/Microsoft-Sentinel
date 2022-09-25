@@ -12,3 +12,4 @@ Useful links:
 
 [Security incident management in Microsoft Sentinel](https://learn.microsoft.com/en-us/training/modules/incident-management-sentinel/)
 
+[Microsoft Sentinel Automation Tips & Tricks](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/microsoft-sentinel-automation-tips-amp-tricks-part-1-automation/ba-p/3558454)
