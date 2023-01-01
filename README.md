@@ -17,3 +17,5 @@ Useful links:
 [Microsoft Sentinel Automation Tips & Tricks - Part - II](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/microsoft-sentinel-automation-tips-amp-tricks-part-2-playbooks/ba-p/3566369)
 
 [Microsoft Sentinel Automation Tips & Tricks - Part - III](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/microsoft-sentinel-automation-tips-amp-tricks-part-3-send-email/ba-p/3571716)
+
+[Microsoft Sentinel as a SOAR solution](https://learn.microsoft.com/en-us/azure/sentinel/automation)
