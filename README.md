@@ -23,3 +23,5 @@ Useful links:
 [Microsoft Sentinel as a SOAR solution](https://learn.microsoft.com/en-us/azure/sentinel/automation)
 
 [Deep Dive into Security Orchestration, Automation and Response (SOAR) using Microsoft Azure Security](https://www.youtube.com/watch?v=r1ZAjvYw5YI&list=PLmAptfqzxVEUD7-w180kVApknWHJCXf0j)
+
+[Become a Microsoft Sentinel Automation Ninja!](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/become-a-microsoft-sentinel-automation-ninja/ba-p/3563377)
