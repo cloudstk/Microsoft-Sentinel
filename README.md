@@ -25,3 +25,5 @@ Useful links:
 [Deep Dive into Security Orchestration, Automation and Response (SOAR) using Microsoft Azure Security](https://www.youtube.com/watch?v=r1ZAjvYw5YI&list=PLmAptfqzxVEUD7-w180kVApknWHJCXf0j)
 
 [Becoming a Microsoft Sentinel Notebooks Ninja - The Series!](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/becoming-a-microsoft-sentinel-notebooks-ninja-the-series/ba-p/2693491)
+
+[https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/creating-your-first-microsoft-sentinel-notebook/ba-p/2977745](Creating your first Microsoft Sentinel Notebook)
