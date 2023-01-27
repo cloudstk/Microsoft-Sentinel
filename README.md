@@ -26,4 +26,4 @@ Useful links:
 
 [Becoming a Microsoft Sentinel Notebooks Ninja - The Series!](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/becoming-a-microsoft-sentinel-notebooks-ninja-the-series/ba-p/2693491)
 
-[https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/creating-your-first-microsoft-sentinel-notebook/ba-p/2977745](Creating your first Microsoft Sentinel Notebook)
+[Creating your first Microsoft Sentinel Notebook](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/creating-your-first-microsoft-sentinel-notebook/ba-p/2977745)
