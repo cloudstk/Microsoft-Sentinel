@@ -27,3 +27,5 @@ Useful links:
 [Becoming a Microsoft Sentinel Notebooks Ninja - The Series!](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/becoming-a-microsoft-sentinel-notebooks-ninja-the-series/ba-p/2693491)
 
 [Creating your first Microsoft Sentinel Notebook](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/creating-your-first-microsoft-sentinel-notebook/ba-p/2977745)
+
+[Automate your attack response with Azure DDoS Protection solution for Microsoft Sentinel](https://azure.microsoft.com/da-dk/blog/automate-your-attack-response-with-azure-ddos-protection-solution-for-microsoft-sentinel/)
