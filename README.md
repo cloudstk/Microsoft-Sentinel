@@ -32,4 +32,6 @@ Useful links:
 
 [Azure DDoS Protection solution for Sentinel](https://azuremarketplace.microsoft.com/en-us/marketplace/apps/azuresentinel.azure-sentinel-solution-azureddosprotection?exp=ubp8&tab=Overview)
 
+[Export Microsoft Sentinel Playbooks](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/export-microsoft-sentinel-playbooks-or-azure-logic-apps-with/ba-p/3275898)
+
 [Playbook ARM Template Generator](https://github.com/Azure/Azure-Sentinel/tree/master/Tools/Playbook-ARM-Template-Generator)
