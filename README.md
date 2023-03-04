@@ -35,3 +35,5 @@ Useful links:
 [Export Microsoft Sentinel Playbooks](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/export-microsoft-sentinel-playbooks-or-azure-logic-apps-with/ba-p/3275898)
 
 [Playbook ARM Template Generator](https://github.com/Azure/Azure-Sentinel/tree/master/Tools/Playbook-ARM-Template-Generator)
+
+[Learning with the Microsoft Sentinel Training Lab](https://github.com/Azure/Azure-Sentinel/blob/master/Solutions/Training/Azure-Sentinel-Training-Lab/Modules/Module-1-Setting-up-the-environment.md#exercise-2-deploy-the-azure-sentinel-training-lab-solution)
