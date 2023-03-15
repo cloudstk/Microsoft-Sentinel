@@ -1,4 +1,5 @@
-# Microsoft Sentinel
+ Microsoft Sentinel
+ ----
 
 Connect Azure Windows Virtual Machines to Microsoft Sentinel
 
