@@ -44,3 +44,6 @@ Useful links:
 [Learning with the Microsoft Sentinel Training Lab](https://github.com/Azure/Azure-Sentinel/blob/master/Solutions/Training/Azure-Sentinel-Training-Lab/Modules/Module-1-Setting-up-the-environment.md#exercise-2-deploy-the-azure-sentinel-training-lab-solution)
 
 [Detect threats out-of-the-box](https://learn.microsoft.com/en-us/azure/sentinel/detect-threats-built-in)
+
+[Microsoft Sentinel: NIST SP 800-53 Solution](https://techcommunity.microsoft.com/t5/public-sector-blog/microsoft-sentinel-nist-sp-800-53-solution/ba-p/3401307)
+
